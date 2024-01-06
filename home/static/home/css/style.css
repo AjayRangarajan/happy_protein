@@ -127,7 +127,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background: linear-gradient(130deg, #231a6f, #0f054c);
+  background: linear-gradient(130deg, #006743, #10e73b);
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -286,7 +286,7 @@ a:focus {
 
 .slider_section .detail-box p {
   color: #fefefe;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .slider_section .detail-box .btn-box {
